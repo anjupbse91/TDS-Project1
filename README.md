@@ -1,4 +1,4 @@
-•	The data was scrapped using GitHub API using python program to retrieve information about repositories and users and making necessary changes as needed
+•	The data was scrapped using GitHub API using python program to retrieve information about repositories and users and make necessary changes as needed
 
 •	The creation of repositories peaked at 2016 and since then there is a gradual decrease. Even the corona period did not seem to have an impact on the repo creation even though people had more time at home to work out.
 
